@@ -1,10 +1,11 @@
 {
-  "name": "grimesbot",
+  "name": "grimes-bot",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
   "scripts": {
-    "dev": "nodemon ./script.js"
+    "dev": "nodemon ./script.js",
+    "start": "node ./script.js"
   },
   "keywords": [],
   "author": "",
